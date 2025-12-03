@@ -3,9 +3,6 @@ import { $ } from '@wdio/globals'
 import BasePage from './Base.page';
 
 
-/**
- * sub page containing specific selectors and methods for a specific page
- */
 class OnboardingPage extends BasePage {
     /**
      * define selectors using getter methods

@@ -7,22 +7,6 @@ import searchPage from '../pageobjects/search.page';
 import articlePage from '../pageobjects/article.page';
 import languagePage from '../pageobjects/language.page';
 
-// import articleLydia  
-// import LoginPage from '../pageobjects/login.page';
-// import SecurePage from '../pageobjects/secure.page';
-// import onboardingPage from '../pageobjects/Onboarding.page';
-
-// import SearchPage from "../pages/SearchPage";
-// import ArticlePage from "../pages/ArticlePage";
-// import LanguagePage from "../pages/LanguagePage";
-// import FooterPage from "../pages/FooterPage";
-
-// const onboarding = new OnboardingPage();
-// const search = new SearchPage();
-// const article = new ArticlePage();
-// const language = new LanguagePage();
-// const footer = new FooterPage();
-
 /**
  * -------------------------
  * GIVEN
